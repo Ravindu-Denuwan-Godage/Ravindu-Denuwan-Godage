@@ -1,21 +1,19 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Ravindu Godage</h1>
-<h3 align="center">Red & Blue Team Practitioner | SIEM | Threat Hunting | Incident Response | Blue Teaming | Forensics</h3>
+<h1 align="center">Hi 👋, I'm Ravindu Denuwan</h1>
+<h3 align="center">Red & Blue Team Practitioner | SIEM | Threat Hunting | Incident Response | Log Analysis</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🔐 I’m actively learning and practicing SOC-level skills including SIEM, threat detection, incident response, and digital forensics. A fast learner with a strong passion for cybersecurity operations and defensive security, especially in the following areas:
+🔐 Practicing defensive cybersecurity operations with a strong foundation in SIEM, log analysis, threat hunting, and incident response. Focused on protecting enterprise environments through proactive detection, monitoring, and analysis of malicious behavior using industry-standard tools and frameworks.
 
 - 🧠 Network Security & Packet Analysis  
 - ⚙️ Log Monitoring & SIEM (Splunk, ELK)  
 - 🧪 Digital Forensics & Threat Detection  
 - 🔎 MITRE ATT&CK & Vulnerability Management  
 - 🚨 Alert Triage, IOC Analysis, and Response Playbooks  
-
-Focused on building real-world SOC experience and contributing to security-first environments.
 
 ---
 
@@ -66,7 +64,7 @@ Lightweight local chatroom for learning authentication, encrypted storage, and s
 - ✅ **Python 3 (Beginner to Advanced)** – *(2023)*  
 - ✅ **Cisco Labs Crash Course** – *(2023)*  
 
-[![View All Certifications](https://img.shields.io/badge/View%20More%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindudenuwan)
+[![More Certifications on LinkedIn](https://img.shields.io/badge/View%20More%20Certifications-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindudenuwan)
 
 ---
 
