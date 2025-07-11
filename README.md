@@ -93,4 +93,4 @@ Lightweight local chatroom for learning authentication, encrypted storage, and s
 
 ---
 
-> *“Security used to be an inconvenience. Now it’s a necessity.” – Marti Noxon*
+*“Continuous learning is the key to mastering cybersecurity.”*
