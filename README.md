@@ -1,103 +1,94 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Ravindu Godage</h1>
-<h3 align="center">Red & Blue Team Enthusiast | SIEM | Incident Response | Threat Hunting | MSc Cyber Security</h3>
+<h3 align="center">Red & Blue Team Practitioner | SIEM | Threat Hunting | Incident Response | MSc Cyber Security</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🔐 Cybersecurity graduate with a deep passion for SOC operations, threat detection, and blue team practices. Fast learner with practical and theoretical knowledge of Information Security, including:
+🔐 Cybersecurity graduate with a strong foundation in SOC operations, threat intelligence, and incident response. Fast learner with hands-on knowledge in:
 
-- 🔎 Ethical Hacking & Network Defense  
-- 🛡️ Threat Hunting & Log Analysis  
-- 🧪 Digital Forensics & Malware Analysis  
-- 🧠 Cybersecurity Research & Reporting  
+- 🧠 Network Security & Packet Analysis  
+- ⚙️ Log Monitoring & SIEM (Splunk, ELK)  
+- 🧪 Digital Forensics & Threat Detection  
+- 🔎 MITRE ATT&CK & Vulnerability Management  
+- 🚨 Alert Triage, IOC Analysis, and Response Playbooks  
 
-🎯 Currently working on live retail infrastructure projects while completing advanced SOC training through TryHackMe and hands-on environments.
+Passionate about defensive security, blue teaming, and building resilient digital infrastructure. Always learning, always adapting.
 
 ---
 
 ## 🧰 Skills
 
-### 🛠️ Cybersecurity Tools & Platforms
+### 🛠️ SOC & Cybersecurity Tools
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679B4?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-E8488B?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=Nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-5C2D91?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-0096D6?style=for-the-badge&logo=tenable&logoColor=white)
 
-### 💻 Programming & Scripting
+### 💻 Scripting & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧠 SOC Analyst Skills
-- 🔹 Log Analysis & Correlation  
-- 🔹 Threat Intelligence & IOC Mapping  
-- 🔹 MITRE ATT&CK & Cyber Kill Chain  
-- 🔹 Vulnerability Scanning (Nessus, OpenVAS)  
-- 🔹 SIEM Monitoring & Alert Triage  
-- 🔹 Incident Response & Root Cause Analysis  
-- 🔹 TCP/IP, DNS, HTTP, SSL Traffic Analysis  
 
 ---
 
-## 🚧 Current Projects
+## 🚧 Projects
 
-### 🖥️ **POS System Upgrade – LIDL UK (2025–Present)**
-Upgrading and troubleshooting Self-Checkout POS systems across retail stores. Focused on hardware/software compatibility, build monitoring via Grafana/Rundeck, incident resolution, and remote troubleshooting with on-site engineers.
+### 🖥️ POS System Upgrade – LIDL UK *(Jun 2025 – Present)*
+Upgrading legacy Self-Checkout systems with new hardware/software builds. Focused on monitoring, root cause analysis, and remote incident resolution using Grafana, Rundeck, and TopDesk.
 
-### 🔄 **Server Migration – LIDL UK (2024)**
-Supported seamless migration of retail infrastructure using DRBD syncing, BOS/DBS/APP deployments, monitoring tools, and rollback recovery planning.
+### 🔄 Server Migration – LIDL UK *(Oct 2024 – Nov 2024)*
+Contributed to migrating store servers using DRBD syncing, Nagios monitoring, and cluster reconfiguration. Ensured successful rollout and performance improvement across sites.
 
-### 🧩 **MasterMind – CTF Web App**
-Offline CTF platform for web security education, simulating real-world login and injection vulnerabilities. Built using PHP, HTML/CSS, and JavaScript.
+### 🧠 MasterMind – CTF Web App *(Apr 2023 – Aug 2023)*  
+Beginner-friendly CTF platform designed to simulate login-level vulnerabilities and teach ethical hacking principles in a safe local environment.
 
-### 💬 **Chatroom – PHP Messaging App**
-Simple chatroom with login and encrypted messaging built in PHP/SQL, designed for beginner-level application security exploration.
+[![MasterMind Repo](https://img.shields.io/badge/View--on--GitHub-MasterMind-blue?style=for-the-badge&logo=github)](https://github.com/Ravindu-Denuwan-Godage/MasterMind.git)
+
+### 💬 Chatroom – PHP Messaging App *(Jan 2023 – Feb 2023)*  
+Lightweight local chatroom for learning authentication, encrypted storage, and secure messaging flow.
+
+[![Chatroom Repo](https://img.shields.io/badge/View--on--GitHub-Chatroom-blue?style=for-the-badge&logo=github)](https://github.com/Ravindu-Denuwan-Godage/Chatroom.git)
 
 ---
 
 ## 📜 Certifications
 
-- SQL Injection Attacks (CodeRed)  
-- Cisco Labs Crash Course (CodeRed)  
-- Configure Juniper SRX Router (J-Web)  
-- Certified Information Systems Security Professional *(Short Course)*  
-- Python 3 (Beginner to Advanced)  
-- Android Bug Bounty Hunting  
-- Introduction to the Dark Web, TypeScript, JavaScript Strings
+- ✅ **SQL Injection Attacks** – CodeRed *(2023)*  
+- ✅ **Certified Information Systems Security Professional** – Short Course *(2023)*  
+- ✅ **Python 3 (Beginner to Advanced)** – *(2023)*  
+- ✅ **Cisco Labs Crash Course** – *(2023)*  
 
-🧪 *More certifications available on request or on my [LinkedIn](https://linkedin.com/in/yourlinkedin)*
+<sub>More certifications available on [LinkedIn](https://www.linkedin.com/in/ravindudenuwan)</sub>
 
 ---
 
 ## 📘 Publications
 
-- **Marriott International Data Breach** *(Jul 2023)* — ResearchGate  
-  Analysis of breach techniques, impacts, and response measures.
+- 📄 [**Marriott International Data Breach**](https://www.researchgate.net/publication/372524901_Marriott_International_Data_Breach) *(Jul 2023)*  
+  In-depth analysis of the 2018 breach, technical breakdown, and response strategy.
 
-- **Cryptographic Techniques** *(Feb 2023)* — ResearchGate  
-  Explores modern cryptographic algorithms and future challenges.
+- 🔐 [**Cryptographic Techniques**](https://www.researchgate.net/publication/367696251_Cryptographic_Techniques) *(Feb 2023)*  
+  Overview of symmetric/asymmetric methods, future use, and security implications.
 
 ---
 
-## 🚀 Currently Learning
+## 📚 Currently Learning
 
-- 🕵️ TryHackMe SOC Analyst Path  
-- 📊 SIEM Tools & Dashboards (Splunk, ELK)  
-- 🐍 Advanced Python for Automation  
-- 🔐 Detection Engineering & Threat Hunting Labs  
+- 🧠 TryHackMe SOC Analyst Path  
+- ⚙️ Detection Engineering & SIEM Alerting  
+- 🐍 Python Automation for SOC  
+- 📊 Log Analysis & Forensics  
 
 ---
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ravindudenuwan)
 
 ---
 
-> *“Security is not a product, but a process.” — Bruce Schneier*
+> *“Security used to be an inconvenience. Now it’s a necessity.” – Marti Noxon*
