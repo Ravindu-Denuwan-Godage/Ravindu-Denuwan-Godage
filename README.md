@@ -66,4 +66,33 @@ Lightweight local chatroom for learning authentication, encrypted storage, and s
 - ✅ **Python 3 (Beginner to Advanced)** – *(2023)*  
 - ✅ **Cisco Labs Crash Course** – *(2023)*  
 
-[![View All Certifications](https://img.shields.io/badge/View%)]()
+[![View All Certifications](https://img.shields.io/badge/View%20More%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindudenuwan)
+
+---
+
+## 📘 Publications
+
+- 📄 [**Marriott International Data Breach**](https://www.researchgate.net/publication/372524901_Marriott_International_Data_Breach) *(Jul 2023)*  
+  In-depth analysis of the 2018 breach, technical breakdown, and response strategy.
+
+- 🔐 [**Cryptographic Techniques**](https://www.researchgate.net/publication/367696251_Cryptographic_Techniques) *(Feb 2023)*  
+  Overview of symmetric/asymmetric methods, future use, and security implications.
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 TryHackMe SOC Analyst Path  
+- ⚙️ Detection Engineering & SIEM Alerting  
+- 🐍 Python Automation for SOC  
+- 📊 Log Analysis & Forensics  
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ravindudenuwan)
+
+---
+
+> *“Security used to be an inconvenience. Now it’s a necessity.” – Marti Noxon*
