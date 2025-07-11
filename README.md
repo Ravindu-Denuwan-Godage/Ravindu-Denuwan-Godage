@@ -1,13 +1,13 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Ravindu Godage</h1>
-<h3 align="center">Red & Blue Team Practitioner | SIEM | Threat Hunting | Incident Response | MSc Cyber Security</h3>
+<h3 align="center">Red & Blue Team Practitioner | SIEM | Threat Hunting | Incident Response | Blue Teaming | Forensics</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🔐 Cybersecurity graduate with a strong foundation in SOC operations, threat intelligence, and incident response. Fast learner with hands-on knowledge in:
+🔐 I’m actively learning and practicing SOC-level skills including SIEM, threat detection, incident response, and digital forensics. A fast learner with a strong passion for cybersecurity operations and defensive security, especially in the following areas:
 
 - 🧠 Network Security & Packet Analysis  
 - ⚙️ Log Monitoring & SIEM (Splunk, ELK)  
@@ -15,7 +15,7 @@
 - 🔎 MITRE ATT&CK & Vulnerability Management  
 - 🚨 Alert Triage, IOC Analysis, and Response Playbooks  
 
-Passionate about defensive security, blue teaming, and building resilient digital infrastructure. Always learning, always adapting.
+Focused on building real-world SOC experience and contributing to security-first environments.
 
 ---
 
@@ -40,8 +40,12 @@ Passionate about defensive security, blue teaming, and building resilient digita
 ### 🖥️ POS System Upgrade – LIDL UK *(Jun 2025 – Present)*
 Upgrading legacy Self-Checkout systems with new hardware/software builds. Focused on monitoring, root cause analysis, and remote incident resolution using Grafana, Rundeck, and TopDesk.
 
+[![More on LinkedIn](https://img.shields.io/badge/View%20More%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindudenuwan)
+
 ### 🔄 Server Migration – LIDL UK *(Oct 2024 – Nov 2024)*
 Contributed to migrating store servers using DRBD syncing, Nagios monitoring, and cluster reconfiguration. Ensured successful rollout and performance improvement across sites.
+
+[![More on LinkedIn](https://img.shields.io/badge/View%20More%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindudenuwan)
 
 ### 🧠 MasterMind – CTF Web App *(Apr 2023 – Aug 2023)*  
 Beginner-friendly CTF platform designed to simulate login-level vulnerabilities and teach ethical hacking principles in a safe local environment.
@@ -62,33 +66,4 @@ Lightweight local chatroom for learning authentication, encrypted storage, and s
 - ✅ **Python 3 (Beginner to Advanced)** – *(2023)*  
 - ✅ **Cisco Labs Crash Course** – *(2023)*  
 
-<sub>More certifications available on [LinkedIn](https://www.linkedin.com/in/ravindudenuwan)</sub>
-
----
-
-## 📘 Publications
-
-- 📄 [**Marriott International Data Breach**](https://www.researchgate.net/publication/372524901_Marriott_International_Data_Breach) *(Jul 2023)*  
-  In-depth analysis of the 2018 breach, technical breakdown, and response strategy.
-
-- 🔐 [**Cryptographic Techniques**](https://www.researchgate.net/publication/367696251_Cryptographic_Techniques) *(Feb 2023)*  
-  Overview of symmetric/asymmetric methods, future use, and security implications.
-
----
-
-## 📚 Currently Learning
-
-- 🧠 TryHackMe SOC Analyst Path  
-- ⚙️ Detection Engineering & SIEM Alerting  
-- 🐍 Python Automation for SOC  
-- 📊 Log Analysis & Forensics  
-
----
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ravindudenuwan)
-
----
-
-> *“Security used to be an inconvenience. Now it’s a necessity.” – Marti Noxon*
+[![View All Certifications](https://img.shields.io/badge/View%)]()
