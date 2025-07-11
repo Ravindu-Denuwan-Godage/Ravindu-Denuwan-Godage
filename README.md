@@ -93,4 +93,4 @@ Lightweight local chatroom for learning authentication, encrypted storage, and s
 
 ---
 
-*“Continuous learning is the key to mastering cybersecurity.”*
+*“Committed to securing tomorrow by mastering the skills of today.”*
