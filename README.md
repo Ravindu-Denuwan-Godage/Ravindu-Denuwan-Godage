@@ -35,8 +35,8 @@
 
 ## 🚧 Projects
 
-### 🖥️ POS System Upgrade – LIDL UK *(Jun 2025 – Present)*
-Upgrading legacy Self-Checkout systems with new hardware/software builds. Focused on monitoring, root cause analysis, and remote incident resolution using Grafana, Rundeck, and TopDesk.
+### 🖥️ SCO System Upgrade – LIDL UK *(Jun 2025 – Present)*
+Supporting the ongoing nationwide upgrade of LIDL UK’s Self-Checkout (SCO) systems by replacing legacy SCO units with new SCO 2.0 platforms across retail locations. Focused on monitoring, root cause analysis, and remote incident resolution using Grafana, Rundeck, and TopDesk.
 
 [![More on LinkedIn](https://img.shields.io/badge/View%20More%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindudenuwan)
 
