@@ -68,7 +68,7 @@ Lightweight local chatroom for learning authentication, encrypted storage, and s
 
 ---
 
-## 📘 Publications
+## 📘 Case Studies
 
 - 📄 [**Marriott International Data Breach**](https://www.researchgate.net/publication/372524901_Marriott_International_Data_Breach) *(Jul 2023)*  
   In-depth analysis of the 2018 breach, technical breakdown, and response strategy.
